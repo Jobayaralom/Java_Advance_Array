@@ -18,6 +18,5 @@ Tell the user how many times that value appears in the array.
 # Comma seperated values
 
 Ask the user to input multiple words seperated by commas (,)
-
 Put those words into a String array, and print out that String array 
 for the user to see.
